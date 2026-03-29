@@ -18,8 +18,6 @@ The "𝗪𝗼𝗿𝗸𝗼𝘂𝘁 & 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗧𝗿𝗮�
 
 <img width="1114" height="779" alt="Screenshot 2026-03-29 191355" src="https://github.com/user-attachments/assets/ed94fc6b-99f3-4555-864f-dc51a96b2a60" />
 
-𝗟𝗶𝗻𝗸 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮𝘀𝗲𝘁: https://www.kaggle.com/datasets/adilshamim8/workout-and-fitness-tracker-data/data
-
 # Conclusions and Discussion
 
 1. 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗼𝗿𝘆 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 (𝗘𝗗𝗔)
